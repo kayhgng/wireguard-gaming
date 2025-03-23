@@ -29,7 +29,7 @@ A beautiful and user-friendly WireGuard configuration generator specifically opt
 - طراحی واکنش‌گرا برای تمام دستگاه‌ها
 
 ## 🚀 Live Demo | نسخه نمایشی
-[View Live Demo]([https://wireguardgamingkayhgng.netlify.app/])
+https://wireguardgamingkayhgng.netlify.app/
 
 
 ## 🤝 Contributing | مشارکت
